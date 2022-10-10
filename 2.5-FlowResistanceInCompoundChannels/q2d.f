@@ -15,7 +15,7 @@
  
 
 !断面情報の読み込み
-      open(10,file='input-L2.dat',status='old')
+      open(10,file='input-L3.dat',status='old')
       read(10,*)
       read(10,*) imax,zs,ib,f,fw
       read(10,*)
